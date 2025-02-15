@@ -3,6 +3,8 @@
 ## Overview
 This project showcases the functionality of a Kanban board app, featuring drag-and-drop task management, customizable containers, and editable board/task titles.
 
+https://github.com/user-attachments/assets/c9a5ece1-1437-48b3-a9e3-28df8f77aac4
+
 ## 1. Kanban Board Overview
 ![Kanban board](https://github.com/user-attachments/assets/fd7a4197-98c1-41f2-bf1e-70ad91f53d47)
 
