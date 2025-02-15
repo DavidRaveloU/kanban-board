@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/c9a5ece1-1437-48b3-a9e3-28df8f77aac4
 ---
 
 ## 3. Add New Container
-![Add new container](https://github.com/user-attachments/assets/46fce958-a2f8-4ffa-803b-84ab0d3b01e9)
+![Add new container](https://github.com/user-attachments/assets/d5924d53-bf6e-455e-ae15-49857aa3f082)
 
 ---
 
