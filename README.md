@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kanban Board App 
 
-## Getting Started
+## Overview
+This project showcases the functionality of a Kanban board app, featuring drag-and-drop task management, customizable containers, and editable board/task titles.
 
-First, run the development server:
+## 1. Kanban Board Overview
+![Kanban board](https://github.com/user-attachments/assets/fd7a4197-98c1-41f2-bf1e-70ad91f53d47)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 2. Drag & Drop Task and Board Ordering
+![Drag and Drop](https://github.com/user-attachments/assets/8bd6ce5a-bdd4-44ff-bfc8-6faa637e975b)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 3. Add New Container
+![Add new container](https://github.com/user-attachments/assets/46fce958-a2f8-4ffa-803b-84ab0d3b01e9)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 4. Edit Board and Task Titles
+![Rename](https://github.com/user-attachments/assets/47843505-3ae0-4f1c-ba35-91fde90ba431)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Running the Project
 
-## Deploy on Vercel
+### Prerequisites
+Before running the app, ensure you have the following installed:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/) or [pnpm](https://pnpm.io/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Installation Steps
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/DavidRaveloU/kanban-board.git
+   cd kanban-board
+   ```
+2. Install the dependencies
+- With npm:
+   ```bash
+   npm install
+   ```
+- With yarn:
+   ```bash
+   yarn install
+   ```
+- With pnpm:
+   ```bash
+   pnpm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   # or if you're using yarn:
+   yarn dev
+   # or if you're using pnpm:
+   pnpm dev
+   ```
+4. Open your browser and navigate to `http://localhost:3000` to see the app in action.
+5. Enjoy
+
+### Thanks
